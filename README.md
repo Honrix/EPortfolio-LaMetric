@@ -2,7 +2,10 @@
 
 ## Einführung
 Dieses Projekt widmet sich mit der Vorstellung der digitalen WLAN Uhr Time von der Firma LaMetric. Die per Smartphone bediente Uhr wirbt selbst mit der Vorstellung eines "smarten Zuhauses". Doch herauszufinden, ob die Uhr diesen Zweck erfüllt, war die Motivation hinter diesem Projekt.  
-Im Laufe dieses Projekts wurden Spezifikationen und Funktionalitäten getestet und eigene Anwendungen und Programme entwickelt.  
+Im Laufe dieses Projekts wurden Spezifikationen und Funktionalitäten getestet und eigene Anwendungen und Programme entwickelt.
+
+## Aufbau des Repositories
+
 
 ## Integration
 Um die Uhr zu bedienen, muss diese in das WLAN-Netz des Bedieners angeschlossen werden und einen konstanten Zugriff zum Internet haben (Informationsaustausch).  
