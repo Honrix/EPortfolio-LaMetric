@@ -1,0 +1,1 @@
+curl -X POST -u "dev:<API_KEY>" -H "Content-Type: application/json" -d " { \"model\": { \"frames\": [ { \"icon\":\"3061\", \"text\":\"Your Message\!\"} ] } }" http://<Device_IP>/api/v2/device/notifications
