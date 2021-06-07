@@ -4,6 +4,8 @@
 Dieses Projekt widmet sich mit der Vorstellung der digitalen WLAN Uhr Time von der Firma LaMetric. Die per Smartphone bediente Uhr wirbt selbst mit der Vorstellung eines "smarten Zuhauses". Doch herauszufinden, ob die Uhr diesen Zweck erfüllt, war die Motivation hinter diesem Projekt.  
 Im Laufe dieses Projekts wurden Spezifikationen und Funktionalitäten getestet und eigene Anwendungen und Programme entwickelt.
 
+![LaMetric Time](https://raw.githubusercontent.com/Honrix/EPortfolio-LaMetric/blob/main/images/LaMetric_Model.png)
+
 ## Aufbau des Repositories
 
 
