@@ -1,0 +1,16 @@
+{
+   "frames": [
+    {
+       "icon": <IconID>,
+       "text":"Text1"
+    },
+    {
+      "icon": <IconID>,
+      "text":"Text2"
+    },
+    {
+      "icon": <IconID>,
+      "text":"Text3"
+    }
+    ]
+}
