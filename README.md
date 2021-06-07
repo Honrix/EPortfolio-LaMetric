@@ -22,3 +22,4 @@ Die Uhr verfügt über Tasten, die Lautstärke regulieren, die Uhr An- und Ausch
 ## Wichtige Links:
 Homepage der Uhr: https://lametric.com/de-DE  
 Developer-Environment: https://developer.lametric.com/  
+Dokumentation: https://lametric-documentation.readthedocs.io/ 
