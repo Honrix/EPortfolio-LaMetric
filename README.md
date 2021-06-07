@@ -7,7 +7,9 @@ Im Laufe dieses Projekts wurden Spezifikationen und Funktionalitäten getestet u
 ![LaMetric Time](https://github.com/Honrix/EPortfolio-LaMetric/blob/main/images/LaMetric_Model.png)
 
 ## Aufbau des Repositories
-
+1.) In **code** befinden sich Beispiele für sämtliche Quellcode-Dateien, die hierbei benutzt wurden.  
+2.) In **documentation** sind die Dateien zur Dokumentation dieses Projekts (die Präsentation). Bei zusätzlichem Interesse bietet sich die ausführliche Dokumentation von LaMetric an: https://lametric-documentation.readthedocs.io/  
+3.) **images** enthält alle verwendeten Bildmaterialien.
 
 ## Integration
 Um die Uhr zu bedienen, muss diese in das WLAN-Netz des Bedieners angeschlossen werden und einen konstanten Zugriff zum Internet haben (Informationsaustausch).  
